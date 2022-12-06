@@ -1,0 +1,16 @@
+.changePassStyle{
+    display: grid;
+    margin: 0 auto;
+    margin-top: 105px;
+    width: 150px;
+}
+
+.changePassStyle input {
+    border-radius: 8px;
+    border-style: none ;
+    padding: 3px 10px;
+}
+
+.changePassStyle button {
+    margin-top: 12px;
+}
