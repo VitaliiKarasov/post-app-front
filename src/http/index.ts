@@ -18,7 +18,7 @@
 import axios from 'axios';
 import {AuthResponse} from "../models/response/AuthResponse";
 
-export const API_URL = `https://post-app.onrender.com`
+export const API_URL = `https://post-app-api-production.up.railway.app`
 
 const $api = axios.create({
     withCredentials: true,
